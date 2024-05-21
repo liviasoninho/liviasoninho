@@ -1,6 +1,6 @@
 # Boas vindas ao meu perfil 💬
 
-- 🔭 Meu nome é Lívia Soninho
+- Meu nome é Lívia Soninho
 
 - Estou estudando na Alura  
 - Estou me desenvolvendo na linguagem JavaScript
