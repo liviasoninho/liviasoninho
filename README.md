@@ -9,3 +9,5 @@
 # Você pode entrar em contato comigo 💗
 
 - 00001102169912sp@al.educacao.sp.gov.br
+
+  ![](https://sm.ign.com/ign_br/screenshot/default/cinnamoroll_zu2z.png)
